@@ -1,5 +1,3 @@
-# sklearn_machinelearning
-# ML_Sklearn
-
-机器学习和sklearn
-
+# 机器学习和sklearn的使用
+包括机器学习中特征工程，特征预处理等。以及分类，回归，聚类等算法的sklearn的可视化和调参等。
+其中大量数据集来自kaggle等竞赛平台。
